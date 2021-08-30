@@ -15,7 +15,7 @@ Hi, I'm Ahmad Issa, a Mathematics PhD interested in Data Science and Artificial 
 Fun facts about me:
 - I love solving problems which combine math and programming. 
 - In fact, when I was in highschool I achieved a rank of 3 out of all users on the popular site [Project Euler](https://projecteuler.net/).
-- I've reads book about and programmed in over a dozen different (sometimes rather esoteric) programming languages. 
+- I've reads book about and programmed in over a dozen different programming languages (some rather esoteric). 
 - As an example, [here's](https://github.com/AhmadIssa0/JSudokuSolver) a very terse (225 character) sudoku solver I wrote in the somewhat esoteric [J programming language](https://en.wikipedia.org/wiki/J_(programming_language)).
 - The last programming language I learnt was the multi-paradigm language Scala. It has changed the way I think about programming.
 - In highschool I wanted to understand backpropagation, which lead me to learning about the multivariable chain rule, which lead me deeper down the mathematical rabbit hole. Now I have a Maths PhD and feel like I've come full circle.
