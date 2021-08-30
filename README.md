@@ -18,4 +18,4 @@ Fun facts about me:
 - I've reads book about and programmed in over a dozen different (sometimes rather esoteric) programming languages. 
 - As an example, [here's](https://github.com/AhmadIssa0/JSudokuSolver) a very terse (225 character) sudoku solver I wrote in the somewhat esoteric [J programming language](https://en.wikipedia.org/wiki/J_(programming_language)).
 - The last programming language I learnt was the multi-paradigm language Scala. It has changed the way I think about programming.
-- In highschool I wanted to understand backpropagation, which lead me to learning about the multivariable chain rule, and deeper down the rabbit hole. Now I have a Maths PhD and feel like I've come full circle.
+- In highschool I wanted to understand backpropagation, which lead me to learning about the multivariable chain rule, which lead me deeper down the mathematical rabbit hole. Now I have a Maths PhD and feel like I've come full circle.
