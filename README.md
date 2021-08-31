@@ -10,7 +10,7 @@ AhmadIssa0/AhmadIssa0 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-Hi, I'm Ahmad Issa, a Mathematics PhD interested in Data Science and Artificial Intelligence. Welcome to my Github!
+Hi, I'm Ahmad Issa, a postdoc with a Mathematics PhD interested in Data Science and Artificial Intelligence. Welcome to my Github!
 
 Fun facts about me:
 - The last programming language I learnt was the multi-paradigm language Scala. It has changed the way I think about programming.
